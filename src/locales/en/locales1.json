@@ -1,0 +1,35 @@
+{
+  "welcome": {
+    "first_login_title": "Welcome to the PDF King family!",
+    "first_login": "Welcome to the PDF King family! 👑 Now you can process your files and save them in your private history.",
+    "empty_history": "Your vault is still empty! 📦 Start using our tools and you will find your files saved here automatically.",
+    "premium_celebration": "Congratulations, King! ✨ You now have unlimited access and eternal storage."
+  },
+  "promo": {
+    "promo_launch": "Launch special: 50% off all plans for the first {{goal}} subscribers",
+    "occasion_launch": "New Year's Eve special: 70% off all plans for {{goal}} new subscribers",
+    "welcome_back": "Thank you for visiting PDF King! The launch offer has recently ended, but we promise more surprises soon. Enjoy our tools now!",
+    "ramadan_message": "🌙 بمناسبة شهر رمضان المبارك خصم 70% على كل الخطط لـ {{goal}} مشترك جديد"
+  },
+  "auth": {
+    "login_title": "Login",
+    "register_title": "Create new account",
+    "login_welcome": "Welcome back! Log in to continue.",
+    "register_welcome": "Join us now and enjoy exclusive features.",
+    "fullname": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "login_btn": "Login",
+    "register_btn": "Create Account",
+    "no_account": "Don't have an account?",
+    "has_account": "Already have an account?",
+    "register_now": "Sign up now",
+    "login_now": "Login",
+    "fullname_placeholder": "John Doe",
+    "error_generic": "Something went wrong",
+    "error_network": "Could not connect to server",
+    "login_required": "You must create an account or log in first to activate your royal plan and protect your discount coupon.",
+    "login_required_alert": "You must log in first to access your transaction history",
+    "history_login_required": "You must log in first to access your file history."
+  }
+}

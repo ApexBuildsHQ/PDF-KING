@@ -1,0 +1,101 @@
+{
+  "tools": {
+    "merge": {
+      "title": "Merge PDF",
+      "desc": "Combine multiple PDFs into one unified document.",
+      "keywords": "merge, combine, join, add",
+      "action": "Merge Now"
+    },
+    "split": {
+      "title": "Split PDF",
+      "desc": "Separate one page or a whole set for easy conversion into independent PDF files.",
+      "keywords": "split, separate, divide, cut",
+      "action": "Split PDF"
+    },
+    "organize": {
+      "title": "Organize PDF",
+      "desc": "Sort, add and delete PDF pages. Drag and drop the page thumbnails to update their order.",
+      "keywords": "organize, sort, delete, remove, order",
+      "action": "Organize PDF"
+    },
+    "rotate": {
+      "title": "Rotate PDF",
+      "desc": "Rotate your PDFs the way you need them. You can even rotate multiple PDFs at once!",
+      "keywords": "rotate, turn, orientation",
+      "action": "Rotate PDF"
+    },
+    "crop": {
+      "title": "Crop PDF",
+      "desc": "Trim PDF margins, change PDF page size, and crop PDF documents.",
+      "keywords": "crop, trim, margin, size",
+      "action": "Crop PDF"
+    },
+    "flatten": {
+      "title": "Flatten PDF",
+      "desc": "Make your PDF read-only. Prevent editing of forms and annotations.",
+      "keywords": "flatten, read-only, uneditable, secure",
+      "action": "Flatten PDF"
+    },
+    "extract": {
+      "title": "Extract Pages",
+      "desc": "Extract pages from your PDF document or save each page as a separate PDF.",
+      "keywords": "extract, pull, save pages",
+      "action": "Extract Pages"
+    },
+    "convert_pdf": {
+      "title": "Convert PDF",
+      "desc": "Convert PDF to Word, Excel, PowerPoint and more.",
+      "keywords": "convert, word, excel, powerpoint",
+      "action": "Convert Now"
+    },
+    "pdf_to_jpg": {
+      "title": "PDF to JPG",
+      "desc": "Convert each PDF page into a JPG image.",
+      "keywords": "convert, image, jpg",
+      "action": "Convert to Images"
+    },
+    "jpg_to_pdf": {
+      "title": "JPG to PDF",
+      "desc": "Convert JPG images to PDF in seconds.",
+      "keywords": "convert, image, pdf",
+      "action": "Convert to PDF"
+    },
+    "ai_summarize": {
+      "title": "AI Summarize",
+      "desc": "Summarize your PDF documents using AI.",
+      "keywords": "ai, summarize, smart",
+      "action": "Summarize Now"
+    },
+    "video_to_pdf": {
+      "title": "Video to PDF",
+      "desc": "Extract frames from a video and save as PDF.",
+      "keywords": "video, frames, extract",
+      "action": "Extract Frames"
+    }
+  },
+  "upload": {
+    "clickToUpload": "Click to upload file",
+    "addMoreFiles": "Add more files",
+    "drag_drop": "Drag & Drop your file here",
+    "or_click": "or click to browse",
+    "limit_exceeded": "File size exceeds your plan's limit ({{limit}}MB). Please upgrade to {{plan}} to process this file.",
+    "access_denied": "Access denied. Please upgrade to {{plan}} to use this tool."
+  },
+  "common": {
+    "back": "Back",
+    "processing": "Processing...",
+    "download": "Download Processed File",
+    "options": "Options",
+    "range": "Page Range (e.g., 1-3, 5)",
+    "extract_all": "Extract all pages",
+    "split_ranges": "Split by ranges",
+    "invalid_range": "Invalid page range. Please check your input.",
+    "rotate_all": "Rotate All",
+    "delete_selected": "Delete Selected",
+    "add_page": "Add Page",
+    "crop_margin": "Crop Margin (%)",
+    "flatten_desc": "This will make all form fields and annotations uneditable.",
+    "merge_desc": "Files will be merged in the order shown above.",
+    "select_pages_to_extract": "Select pages to extract."
+  }
+}

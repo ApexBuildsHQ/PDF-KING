@@ -1,0 +1,85 @@
+{
+  "header": {
+    "settings": "Settings",
+    "login": "Login",
+    "profile": "Profile",
+    "theme_toggle": "Toggle Theme"
+  },
+  "hero": {
+    "title": "Control your files like royalty.",
+    "subtitle": "Over 60 tools at your command: Merge, split, and convert files with lightning speed and absolute privacy."
+  },
+  "search": {
+    "placeholder": "Search for a tool (e.g., Merge, Compress...)"
+  },
+  "categories": {
+    "popular": "Popular",
+    "organize": "Organize",
+    "convert": "Convert",
+    "protect": "Protect",
+    "edit": "Edit",
+    "images": "Images",
+    "aiTools": "AI Tools",
+    "video": "Video"
+  },
+  "nav": {
+    "home": "Home",
+    "premium": "Premium",
+    "history": "History"
+  },
+  "pricing": {
+    "loginRequired": "You must create an account or log in first to activate your royal plan and protect your discount coupon.",
+    "successTitle": "Welcome to Royalty!",
+    "successMessage": "Your subscription was successful. The full power of the kingdom is now at your fingertips.",
+    "exploreTools": "Explore Premium Tools",
+    "title": "Choose Your Reign",
+    "subtitle": "Unlock the full power of the kingdom with our royal plans.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save {{percent}}%",
+    "couponPlaceholder": "Have a royal code?",
+    "apply": "Apply",
+    "enterCode": "Please enter a code.",
+    "invalidCode": "Invalid royal code.",
+    "maxFileSize": "<strong class=\"text-gray-900 dark:text-white\">{{size}}MB</strong> Max File Size",
+    "normalOps": "<strong class=\"text-gray-900 dark:text-white\">{{amount}}</strong> Normal Operations/day",
+    "aiOps": "<strong class=\"text-gray-900 dark:text-white\">{{amount}}</strong> AI Operations/day",
+    "watermarkApplied": "Watermark Applied",
+    "noWatermark": "No Watermark",
+    "adsApplied": "Ads Applied",
+    "noAds": "No Ads",
+    "currentPlan": "Current Plan",
+    "subscribeNow": "Subscribe Now",
+    "unlimited": "Unlimited",
+    "desc_free": "Unlock the basic power for everyday use.",
+    "desc_pro": "The perfect balance for individuals and professionals.",
+    "desc_king": "The full power of the kingdom for heavy users.",
+    "desc_ultra": "Maximum limits for ultimate productivity.",
+    "desc_company": "Unlimited access for your entire team."
+  },
+  "history": {
+    "title": "Payment History",
+    "empty": "No payment transactions recorded",
+    "upgrade_prompt": "Upgrade your plan now to access features"
+  },
+  "features": {
+    "free_plan": "FREE",
+    "pro_plan": "PRO",
+    "king_plan": "KING",
+    "free_feature_1": "Process up to 25MB files",
+    "free_feature_2": "10 operations per day",
+    "king_feature_1": "Unlimited operations forever",
+    "king_feature_2": "Priority royal support",
+    "king_feature_3": "Ad-free experience",
+    "ultra_plan": "ULTRA",
+    "company_plan": "COMPANY"
+  },
+  "table": {
+    "price": "Price",
+    "plan": "Plan",
+    "date": "Date",
+    "status": "Status",
+    "action": "Action",
+    "view_receipt": "View Receipt"
+  }
+}
