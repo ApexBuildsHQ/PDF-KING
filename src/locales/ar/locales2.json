@@ -1,0 +1,85 @@
+{
+  "header": {
+    "settings": "الإعدادات",
+    "login": "تسجيل الدخول",
+    "profile": "الملف الشخصي",
+    "theme_toggle": "تبديل المظهر"
+  },
+  "hero": {
+    "title": "تحكم في ملفاتك كالملوك.",
+    "subtitle": "أكثر من 60 أداة تحت تصرفك: دمج، تقسيم، وتحويل الملفات بسرعة البرق وبخصوصية تامة."
+  },
+  "search": {
+    "placeholder": "ابحث عن أداة (مثل: دمج، ضغط...)"
+  },
+  "categories": {
+    "popular": "شائع",
+    "organize": "تنظيم",
+    "convert": "تحويل",
+    "protect": "حماية",
+    "edit": "تعديل",
+    "images": "صور",
+    "aiTools": "أدوات الذكاء الاصطناعي",
+    "video": "فيديو"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "premium": "المميزات",
+    "history": "السجل"
+  },
+  "pricing": {
+    "loginRequired": "يجب إنشاء حساب أو تسجيل الدخول أولاً لتفعيل الخطة وحماية كوبون الخصم الخاص بك.",
+    "successTitle": "مرحباً بك في الملوك!",
+    "successMessage": "تم اشتراكك بنجاح. القوة الكاملة للمملكة الآن بين يديك.",
+    "exploreTools": "استكشف الأدوات المميزة",
+    "title": "اختر باقتك الملكية",
+    "subtitle": "افتح القوة الكاملة للمملكة مع خططنا الملكية.",
+    "monthly": "شهري",
+    "yearly": "سنوي",
+    "save": "وفر {{percent}}%",
+    "couponPlaceholder": "هل لديك كود ملكي؟",
+    "apply": "تطبيق",
+    "enterCode": "الرجاء إدخال الكود.",
+    "invalidCode": "كود ملكي غير صالح.",
+    "maxFileSize": "<strong class=\"text-gray-900 dark:text-white\">{{size}} ميجابايت</strong> أقصى حجم للملف",
+    "normalOps": "<strong class=\"text-gray-900 dark:text-white\">{{amount}}</strong> عملية عادية/يوم",
+    "aiOps": "<strong class=\"text-gray-900 dark:text-white\">{{amount}}</strong> عملية ذكاء اصطناعي/يوم",
+    "watermarkApplied": "توجد علامة مائية",
+    "noWatermark": "بدون علامة مائية",
+    "adsApplied": "توجد إعلانات",
+    "noAds": "بدون إعلانات",
+    "currentPlan": "الخطة الحالية",
+    "subscribeNow": "اشترك الآن",
+    "unlimited": "غير محدود",
+    "desc_free": "أطلق العنان للقوة الأساسية للاستخدام اليومي.",
+    "desc_pro": "التوازن المثالي للأفراد والمهنيين.",
+    "desc_king": "القوة الكاملة للمملكة للمستخدمين الثقيلين.",
+    "desc_ultra": "الحدود القصوى للإنتاجية النهائية.",
+    "desc_company": "وصول غير محدود لفريقك بأكمله."
+  },
+  "history": {
+    "title": "سجل المدفوعات",
+    "empty": "لا يوجد عمليات دفع مسجلة",
+    "upgrade_prompt": "قم بترقية خطتك الآن للوصول للمميزات"
+  },
+  "features": {
+    "free_plan": "FREE",
+    "pro_plan": "PRO",
+    "king_plan": "KING",
+    "free_feature_1": "معالجة ملفات حتى 25 ميجابايت",
+    "free_feature_2": "10 عمليات يومياً",
+    "king_feature_1": "عمليات غير محدودة للأبد",
+    "king_feature_2": "دعم ملكي سريع",
+    "king_feature_3": "تجربة خالية من الإعلانات",
+    "ultra_plan": "ULTRA",
+    "company_plan": "COMPANY"
+  },
+  "table": {
+    "price": "السعر",
+    "plan": "الخطة",
+    "date": "التاريخ",
+    "status": "الحالة",
+    "action": "الإجراء",
+    "view_receipt": "عرض الإيصال"
+  }
+}
